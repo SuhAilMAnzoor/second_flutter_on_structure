@@ -51,7 +51,7 @@ class ProfileView extends StatelessWidget {
               height: 100,
               width: 100,
               color: Colors.yellow,
-              child: Text("Data"),
+              child: const Text("Data"),
             ),
           ],
         ),
