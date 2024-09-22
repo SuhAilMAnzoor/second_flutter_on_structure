@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:my_first_flutter_project/SelfLearning04_MakeStructureOfContainers.dart';
+import 'package:my_first_flutter_project/SelfLearning06_Alignment.dart';
 
 void main() {
   runApp(const MyApp());
@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return const MaterialApp(
-      home: SelfLearning04(),
+      home: SelfLearning06(),
     );
   }
 }
